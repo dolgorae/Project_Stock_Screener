@@ -1,0 +1,6 @@
+crawling library --> 맨 처음에 사용하던 dart library 활용 재무제표 크롤링
+KOSPI 200 --> 코스피 200을 네이버에서 크롤링
+modeling --> 오늘 만든 ML 학습 코드
+pretreatment --> balance, cash, income 데이터를 by year로 전처리 하는 코드
+stock_value --> 네이버에서 코스피 200에 대해 15년 부터 주가를 크롤링
+raw_revised 생성 --> 동주님이 만들어주셨던 데이터 프레임에 group 추가하는 코드 
